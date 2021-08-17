@@ -1,0 +1,13 @@
+
+.formulario_encabezado { width:70%; margin:0 auto; border: 2pt solid #333333; padding: 15px; -moz-border-radius-bottomright: 15px;
+  -moz-border-radius-topleft: 30px; -moz-border-radius-topright: 30px; -moz-border-radius-bottomleft: 30px; display: table;}
+.formulario_encabezado i { color:#FF333 ; font-size:15px; font-weight:bold;}
+.formulario_encabezado table { width:100%;}
+.formulario_encabezado td { font-weight:bold; padding:5px;}
+.formulario_encabezado td { font-weight:bold; padding:5px;}
+.formulario_encabezado thead th { font-weight:bold; text-align:left; background:#CCFFCC;}
+.formulario_encabezado input:hover { background:#00FF00;}
+.formulario_encabezado input[type='submit'],.formulario_encabezado input[type='button'] { padding:5px; background:#0000FF; text-transform:uppercase; -moz-border-radius:15px; -webkit-border-radius: 15px; font-size:.7em; font-weight:bold;}
+.error { color:#FF33FF; clear:both;}
+.factura { width:100%; font-weight:bold; padding:5px;}
+.factura th { font-weight:bold; text-align:left; background:#00FFFF;}
